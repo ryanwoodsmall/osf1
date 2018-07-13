@@ -6,7 +6,7 @@ DEC OSF/1 via:
 
 Full file list with file type:
 
-- https://raw.githubusercontent.com/ryanwoodsmall/osf1/master/filetypes.out
+- https://raw.githubusercontent.com/ryanwoodsmall/osf1/master/doc/filetypes.out
 
 Extracted from archive **OSF1-1.0-src.tar.bz2**; initial contents were tar files included below.
 
