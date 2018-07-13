@@ -1,0 +1,209 @@
+-r-xr-xr-x 3/4            2308 1994-03-02 17:12 ./usr/opt/OSC200/tools/help/shared.template
+-r-xr-xr-x 3/4            2486 1994-03-02 17:12 ./usr/opt/OSC200/tools/help/rcfileprep
+-r-xr-xr-x 3/4            2949 1994-03-02 17:12 ./usr/opt/OSC200/tools/help/options.sh
+-r-xr-xr-x 3/4            1806 1994-03-02 17:12 ./usr/opt/OSC200/tools/help/local.template
+-r-xr-xr-x 3/4            2015 1994-03-02 17:12 ./usr/opt/OSC200/tools/help/lat_links.sh
+-r--r--r-- 3/4            1623 1994-03-02 17:12 ./usr/opt/OSC200/tools/help/.sandboxrc.template
+-r--r--r-- 3/4            1712 1994-03-02 17:12 ./usr/opt/OSC200/tools/help/.newpath.template
+-rwxr-xr-x 3/4            9460 1991-10-01 19:13 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/yaccpar
+-rwxr-xr-x 3/4           37376 1991-12-16 16:29 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/palfp.exe
+-rwxr-xr-x 3/4           99840 1991-12-16 16:29 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/pal_srm4.exe
+-rwxr-xr-x 3/4            4446 1991-10-01 19:14 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/ncform
+-rwxr-xr-x 3/4            2607 1994-03-02 17:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/mksymlinks
+-r-xr-xr-x 3/4          163840 1994-02-15 20:01 ./usr/opt/OSC200/tools/help/build
+-rwxr-xr-x 3/4            2006 1994-03-02 17:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/mig
+-rwxr-xr-x 3/4            1430 1993-01-27 13:00 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/instdir
+-rwxr-xr-x 3/4            1399 1993-01-21 20:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/genloc
+-rw-r--r-- 3/4            3307 1993-10-26 20:20 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/flex.cat
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/lib/err.english.cc -> cmplrs/cc/err.english.cc
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/lib/cpp -> cmplrs/cc/cpp
+-rwxr-xr-x 3/4           99328 1991-12-16 16:29 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/pal_srm3.exe
+-rwxr-xr-x 3/4           53760 1991-12-16 16:29 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/pal.exe
+-rw-r--r-- 3/4           19998 1993-10-26 20:20 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/flex.skel
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/lib/cmplrs -> ../ccs/lib/cmplrs
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/vmcrt0.o -> cmplrs/cc/vmcrt0.o
+-rwxr-xr-x 3/4          164172 1992-04-07 15:07 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/migcom.mips.sav
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/vcrt0.o -> cmplrs/cc/vcrt0.o
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/pmcrt0.o -> cmplrs/cc/pmcrt0.o
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/pcrt0.o -> cmplrs/cc/pcrt0.o
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/mcrt0.o -> cmplrs/cc/mcrt0.o
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/lint2 -> cmplrs/cc/lint2
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/lint1 -> cmplrs/cc/lint1
+-rwxr-xr-x 3/4            3201 1994-03-02 17:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/lint/llib-lansi.c
+-rwxr-xr-x 3/4             852 1993-08-05 06:09 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/lint/Mkf.native
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/err.english.cc -> ../../lib/cmplrs/cc/err.english.cc
+-rwxr-xr-x 3/4          177092 1993-01-05 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/migcom.mips
+-rwxr-xr-x 3/4          177092 1993-01-05 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/migcom
+-rwxr-xr-x 3/4          172032 1991-12-16 16:29 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/hwrpb.exe
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/crt0.o -> cmplrs/cc/crt0.o
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cpp -> ../../lib/cmplrs/cc/cpp
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/pc -> cc
+lrwxr-xr-x 3/4               0 1994-02-02 16:58 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/uld -> ld
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/cpp -> cfe
+-rwxr-xr-x 3/4          155648 1993-11-10 19:11 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/yacc
+-rwxr-xr-x 3/4           10250 1994-03-02 17:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/lint/llib-port.c
+-rwxr-xr-x 3/4            8072 1994-03-02 17:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/lint/llib-lm.c
+-rwxr-xr-x 3/4               0 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/comp.config
+-rwxr-xr-x 3/4          114688 1993-11-10 20:26 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/mkcatdefs
+-rw-r--r-- 3/4           23017 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/include/obj_ext.h
+-rwxr-xr-x 3/4            7503 1994-03-02 17:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/lint/llib-lcrses.c
+-rw-r--r-- 3/4            5248 1993-08-05 04:46 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/vmcrt0.o
+-rw-r--r-- 3/4            4824 1993-08-05 04:46 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/vcrt0.o
+-rw-r--r-- 3/4            5248 1993-08-05 04:46 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/pmcrt0.o
+-rw-r--r-- 3/4            4824 1993-08-05 04:46 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/pcrt0.o
+-rw-r--r-- 3/4            5248 1993-08-05 04:46 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/mcrt0.o
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/as -> cc
+-rwxr-xr-x 3/4          106496 1993-11-10 20:46 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/md
+-rwxr-xr-x 3/4           38535 1994-03-02 17:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/lint/llib-lc.c
+-rwxr-xr-x 3/4           10024 1994-01-11 21:33 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libxmalloc.a
+-rwxr-xr-x 3/4           12498 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libprof1.a
+-rwxr-xr-x 3/4            5392 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libexc_init.a
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/utob -> ../../lib/cmplrs/cc/utob
+-rwxr-xr-x 3/4           81920 1993-11-10 20:43 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/makepath
+-rwxr-xr-x 3/4           81920 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/runcord
+-rw-r--r-- 3/4            4824 1993-08-05 04:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/crt0.o
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/uld -> ld
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/strip -> ../../lib/cmplrs/cc/strip
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/stdump -> ../../lib/cmplrs/cc/stdump
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/size -> ../../lib/cmplrs/cc/size
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/runcord -> ../../lib/cmplrs/cc/runcord
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/prof -> ../../lib/cmplrs/cc/prof
+-rwxr-xr-x 3/4          131072 1993-11-10 20:42 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/libloc
+-rw-r--r-- 3/4           42850 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/err.english.cc
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/ppu -> ../../lib/cmplrs/cc/ppu
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/pixstats -> ../../lib/cmplrs/cc/pixstats
+-rwxr-xr-x 3/4          155648 1993-11-10 20:38 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/lex
+-r--r--r-- 3/4           15585 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/dbx.help
+-rwxr-xr-x 3/4            3027 1994-03-02 17:11 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/ranlib
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/pixie -> ../../lib/cmplrs/cc/pixie
+-rwxr-xr-x 3/4          139264 1993-11-10 20:36 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/genpath
+-rwxr-xr-x 3/4           24576 1993-08-05 06:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/xstr
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/pc -> ../../lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/odump -> ../../lib/cmplrs/cc/odump
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/nm -> ../../lib/cmplrs/cc/nm
+-rwxr-xr-x 3/4            3366 1994-03-02 17:11 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/mig
+-rwxr-xr-x 3/4            3750 1994-03-02 17:11 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/lorder
+-rwxr-xr-x 3/4          155648 1993-11-10 20:26 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/gencat
+-r-xr-xr-x 3/4            7798 1994-03-02 17:11 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/lint
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/ld -> ../../lib/cmplrs/cc/ld
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/ftoc -> ../../lib/cmplrs/cc/ftoc
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/file -> ../lib/cmplrs/cc/file
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/feedback -> ../../lib/cmplrs/cc/feedback
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/dis -> ../../lib/cmplrs/cc/dis
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/dbx -> ../../lib/cmplrs/cc/dbx
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/cpp -> ../../lib/cmplrs/cc/cfe
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/cord -> ../../lib/cmplrs/cc/cord
+-rwxr-xr-x 3/4            3703 1994-03-02 17:11 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/cflow
+-rwxr-xr-x 3/4          106496 1993-12-10 16:41 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/fold
+-rw-r--r-- 3/4           67968 1993-08-05 04:17 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libus.a
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/cc -> ../../lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/btou -> ../../lib/cmplrs/cc/btou
+-rwxr-xr-x 3/4          114688 1993-11-10 20:21 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/ctab
+-rw-r--r-- 3/4           53246 1993-08-05 04:15 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libfe.a
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/as -> ../../lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/ar -> ../../lib/cmplrs/cc/ar
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/utob -> ../lib/cmplrs/cc/utob
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/uld -> ld
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/strip -> ../lib/cmplrs/cc/strip
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/stdump -> ../lib/cmplrs/cc/stdump
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/size -> ../lib/cmplrs/cc/size
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/runcord -> ../lib/cmplrs/cc/runcord
+-rwxr-xr-x 3/4           98304 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/strip
+-rwxr-xr-x 3/4           47840 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libexc.a
+-rwxr-xr-x 3/4           24576 1993-08-05 06:59 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/strings
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/prof -> ../lib/cmplrs/cc/prof
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/ppu -> ../lib/cmplrs/cc/ppu
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/pixstats -> ../lib/cmplrs/cc/pixstats
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/pixie -> ../lib/cmplrs/cc/pixie
+-rwxr-xr-x 3/4          114688 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/lint2
+-rwxr-xr-x 3/4           24576 1993-08-05 06:12 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/mkstr
+-rwxr-xr-x 3/4           32768 1993-08-05 05:47 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/cxref
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/pc -> ../lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/odump -> ../lib/cmplrs/cc/odump
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/nm -> ../lib/cmplrs/cc/nm
+-rw-r--r-- 3/4           98322 1993-08-05 04:16 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libu.a
+-rwxr-xr-x 3/4           73728 1993-08-05 06:13 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/yacc
+-rwxr-xr-x 3/4            2006 1994-03-02 17:11 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/mig
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/lint -> ../ccs/bin/lint
+-rwxr-xr-x 3/4          119666 1994-01-11 21:33 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libp.a
+-rwxr-xr-x 3/4           49152 1993-08-05 06:10 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/m4
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/ld -> ../lib/cmplrs/cc/ld
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/ftoc -> ../lib/cmplrs/cc/ftoc
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/feedback -> ../lib/cmplrs/cc/feedback
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/dis -> ../lib/cmplrs/cc/dis
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/dbx -> ../lib/cmplrs/cc/dbx
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/cord -> ../lib/cmplrs/cc/cord
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/cc -> ../lib/cmplrs/cc/driver
+-rw-r--r-- 3/4          171042 1993-08-05 04:16 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libmisc.a
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/btou -> ../lib/cmplrs/cc/btou
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/as -> ../lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/ar -> ../lib/cmplrs/cc/ar
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/strip -> usr/lib/cmplrs/cc/strip
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/size -> usr/lib/cmplrs/cc/size
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/pc -> usr/lib/cmplrs/cc/driver
+-rwxr-xr-x 3/4          106496 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/ftoc
+-rwxr-xr-x 3/4           65536 1993-08-05 06:04 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/indent
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/nm -> usr/lib/cmplrs/cc/nm
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/lint -> usr/bin/lint
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/ld -> usr/lib/cmplrs/cc/ld
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/cpp -> usr/lib/cmplrs/cc/cpp
+-r-xr-xr-x 3/4          114688 1993-08-05 06:42 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/file
+-rwxr-xr-x 3/4           57344 1993-08-05 06:01 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/error
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/cc -> usr/lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/as -> usr/lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 16:57 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/ar -> usr/lib/cmplrs/cc/ar
+-rw-r--r-- 3/4              13 1994-01-11 21:53 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/TIMESTAMP
+-rwxr-xr-x 3/4           81920 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/feedback
+-rwxr-xr-x 3/4           81920 1993-08-05 06:05 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/lex
+-r--r--r-- 3/4            2321 1994-03-02 15:38 ./usr/opt/OSC200/src/isl/data/OSCBTOOLS200.scp
+-rwxr-xr-x 3/4          114688 1993-08-05 06:11 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/make
+-rwxr-xr-x 3/4           32768 1993-08-05 05:47 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/ctags
+-rwxr-xr-x 3/4           40960 1993-08-05 05:47 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/bin/cb
+-rwxr-xr-x 3/4           98086 1992-09-26 02:20 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/yacc
+-rwxr-xr-x 3/4          165977 1992-09-26 02:17 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/make.bl9
+-rwxr-xr-x 3/4          110406 1992-09-26 02:07 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/lex
+-rwxr-xr-x 3/4          217626 1992-08-26 14:14 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/migcom.alpha.sav
+-rwxr-xr-x 3/4          239279 1993-01-05 21:30 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/migcom.alpha
+-rw-r--r-- 3/4         1501610 1993-04-13 17:41 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/libm.a
+-rwxr-xr-x 3/4          245760 1991-12-16 16:29 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/hwrpb_rev2.exe
+-rwxr-xr-x 3/4          237568 1991-12-16 16:29 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/lib/hwrpb_rev1.exe
+-rwxr-xr-x 3/4          245760 1993-04-09 15:41 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/release
+-rwxr-xr-x 3/4          204800 1993-11-10 20:48 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/migcom
+-rwxr-xr-x 3/4          262144 1993-03-30 21:05 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/make
+-rwxr-xr-x 3/4          401408 1993-12-20 21:03 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/localedef
+-rwxr-xr-x 3/4          286720 1993-10-26 20:24 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/hostbin/flex
+-rw-r--r-- 3/4         4972298 1993-08-05 07:47 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/libc.a
+-rwxr-xr-x 3/4          188416 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/utob
+-rwxr-xr-x 3/4          262144 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/usplit
+-rwxr-xr-x 3/4          737280 1994-01-11 21:33 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/upas
+-rwxr-xr-x 3/4         1024000 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/uopt
+-rwxr-xr-x 3/4          401408 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/umerge
+-rwxr-xr-x 3/4          303104 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/ujoin
+-rwxr-xr-x 3/4          786432 1993-03-12 20:23 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/ugen.rev1
+-rwxr-xr-x 3/4          811008 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/ugen
+-rwxr-xr-x 3/4          286720 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/stdump
+-rwxr-xr-x 3/4          253952 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/size
+-rwxr-xr-x 3/4          442368 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/prof
+-rwxr-xr-x 3/4          180224 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/ppu
+-rwxr-xr-x 3/4          385024 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/pixstats
+-rwxr-xr-x 3/4          409600 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/pixie
+-rwxr-xr-x 3/4          352256 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/odump
+-rwxr-xr-x 3/4          278528 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/nm
+-rwxr-xr-x 3/4          311296 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/lint1
+-rwxr-xr-x 3/4         1041252 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libmld.a
+-rw-r--r-- 3/4          394842 1993-08-05 08:00 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/libdpi.a
+-rwxr-xr-x 3/4          638976 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/ld
+-rwxr-xr-x 3/4         3637248 1994-01-11 21:33 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/gemc_cc
+-rwxr-xr-x 3/4          221184 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/driver
+-rwxr-xr-x 3/4          294912 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/dis
+-rwxr-xr-x 3/4         1130496 1993-06-12 19:19 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/dbx.segfaults
+-rwxr-xr-x 3/4          876544 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/dbx
+-rwxr-xr-x 3/4          286720 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/cord
+-rwxr-xr-x 3/4          999424 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/cfe
+-rwxr-xr-x 3/4          188416 1994-01-11 21:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/btou
+-rwxr-xr-x 3/4          720896 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/as1
+-rwxr-xr-x 3/4          475136 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/as0
+-rwxr-xr-x 3/4          344064 1994-01-11 21:31 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/ccs/lib/cmplrs/cc/ar
+-rwxr-xr-x 3/4          245760 1993-01-05 17:32 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/release
+-rwxr-xr-x 3/4          262144 1993-03-30 21:05 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/usr/bin/make
+-rwxr-xr-x 3/4          270336 1992-12-15 19:35 ./usr/opt/OSC200/tools/alpha_OSF1/alpha/acc/sbin/loader

@@ -1,0 +1,17 @@
+-r--r--r-- 3/4            2174 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/mit-sipb-copyright.h
+-r--r--r-- 3/4            1713 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/internal.h
+-r--r--r-- 3/4            2695 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/init_et.c
+-r--r--r-- 3/4            2545 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/et_name.c
+-r--r--r-- 3/4            2068 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/error_table.h
+-r--r--r-- 3/4            3274 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/error_message.c
+-r--r--r-- 3/4            2430 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/com_err.h
+-r--r--r-- 3/4            4399 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/com_err.c
+-r--r--r-- 3/4            2059 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/lib/Makefile
+-r--r--r-- 3/4            2000 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/compile_et/et_lex.lex.l
+-r--r--r-- 3/4           10922 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/compile_et/et_lex.lex.c
+-r--r--r-- 3/4            6160 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/compile_et/error_table.y
+-r--r--r-- 3/4            1784 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/compile_et/compiler.h
+-r--r--r-- 3/4           11699 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/compile_et/compile_et.c
+-r--r--r-- 3/4            1917 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/compile_et/Makefile
+-r--r--r-- 3/4            1807 1994-03-02 17:11 ./usr/opt/OSC200/src/util/et/Makefile
+-r--r--r-- 3/4            1523 1994-03-02 17:11 ./usr/opt/OSC200/src/util/Makefile

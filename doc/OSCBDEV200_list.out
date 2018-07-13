@@ -1,0 +1,6 @@
+-r--r--r-- 3/4            1594 1994-03-02 15:36 ./usr/opt/OSC200/src/dev/Makefile
+-r--r--r-- 3/4           29276 1994-03-02 15:36 ./usr/opt/OSC200/src/dev/MAKEDEV/alpha/MAKEDEV.sh
+-r--r--r-- 3/4           25683 1994-03-02 15:36 ./usr/opt/OSC200/src/dev/MAKEDEV/PMAX/MAKEDEV.sh
+-r--r--r-- 3/4            1729 1994-03-02 15:36 ./usr/opt/OSC200/src/dev/MAKEDEV/Makefile
+-r--r--r-- 3/4           10592 1994-03-02 15:36 ./usr/opt/OSC200/src/dev/MAKEDEV/MMAX/MAKEDEV.sh
+-r--r--r-- 3/4            6488 1994-03-02 15:36 ./usr/opt/OSC200/src/dev/MAKEDEV/AT386/MAKEDEV.sh

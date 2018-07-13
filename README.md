@@ -8,7 +8,9 @@ Full file list with file type:
 
 - https://raw.githubusercontent.com/ryanwoodsmall/osf1/master/doc/filetypes.out
 
-Extracted from archive **OSF1-1.0-src.tar.bz2**; initial contents were tar files included below.
+Extracted from archive **OSF1-1.0-src.tar.bz2**.
+Initial contents were tar files included below.
+Full listings of each tar (via ```tar -tvf```) are available in the [doc directory](/doc).
 
 ```
 drwx------ 32854/103         0 2003-11-20 19:48 osf1src/

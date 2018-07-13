@@ -1,0 +1,5 @@
+-r--r--r-- 3/4            1620 1994-03-02 17:11 ./usr/opt/OSC200/src/var/spool/cron/Makefile
+-r--r--r-- 3/4            1932 1994-03-02 17:11 ./usr/opt/OSC200/src/var/spool/Makefile
+-r--r--r-- 3/4            1637 1994-03-02 17:11 ./usr/opt/OSC200/src/var/log/Makefile
+-r--r--r-- 3/4            1766 1994-03-02 17:11 ./usr/opt/OSC200/src/var/adm/Makefile
+-r--r--r-- 3/4            1780 1994-03-02 17:11 ./usr/opt/OSC200/src/var/Makefile

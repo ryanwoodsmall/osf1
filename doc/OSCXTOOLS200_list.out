@@ -1,0 +1,33 @@
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/strip -> usr/lib/cmplrs/cc/strip
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/size -> usr/lib/cmplrs/cc/size
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/pc -> usr/lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/nm -> usr/lib/cmplrs/cc/nm
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/lint -> usr/bin/lint
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/ld -> usr/lib/cmplrs/cc/ld
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/cpp -> usr/lib/cmplrs/cc/cpp
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/cc -> usr/lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/as -> usr/lib/cmplrs/cc/driver
+lrwxr-xr-x 3/4               0 1994-02-02 15:00 ./usr/opt/OSCX200/tools/alpha_osf1/cc/ar -> usr/lib/cmplrs/cc/ar
+-rw-r--r-- 3/4              13 1994-01-11 21:53 ./usr/opt/OSCX200/tools/alpha_osf1/cc/TIMESTAMP
+-r--r--r-- 3/4           10712 1994-03-02 16:03 ./usr/opt/OSCX200/src/tools/wml/wmlutils.c
+-r--r--r-- 3/4            4568 1994-03-02 16:03 ./usr/opt/OSCX200/src/tools/wml/wmluiltok.l
+-r--r--r-- 3/4           30185 1994-03-02 16:03 ./usr/opt/OSCX200/src/tools/wml/wmlsynbld.c
+-r--r--r-- 3/4           46690 1994-03-02 16:03 ./usr/opt/OSCX200/src/tools/wml/wmlresolve.c
+-r--r--r-- 3/4           15310 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wmlparse.y
+-r--r--r-- 3/4            5243 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wmloutp1.c
+-r--r--r-- 3/4           15962 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wmloutmm.c
+-r--r--r-- 3/4           22150 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wmloutkey.c
+-r--r--r-- 3/4            3665 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wmllex.l
+-r--r--r-- 3/4            1487 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/uilwmdcreate
+-r--r--r-- 3/4            2051 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/runwml
+-r--r--r-- 3/4           45941 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wmlouth.c
+-r--r--r-- 3/4           20445 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wmldbcreate.c
+-r--r--r-- 3/4           16030 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wml.readme
+-r--r--r-- 3/4           22308 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wml.h
+-r--r--r-- 3/4           10279 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/wml.c
+-r--r--r-- 3/4           20480 1992-04-28 13:37 ./usr/opt/OSCX200/src/tools/wml/motif.wml
+-r--r--r-- 3/4           17888 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/UilDBDef.h
+-r--r--r-- 3/4            4288 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/Imakefile
+-r--r--r-- 3/4           93822 1992-04-28 13:43 ./usr/opt/OSCX200/src/tools/wml/dxm-motif.wml
+-r--r--r-- 3/4           39744 1994-03-02 16:02 ./usr/opt/OSCX200/src/tools/wml/Uil.y
+-rwxr-xr-x 3/4          270336 1992-12-15 19:35 ./usr/opt/OSCX200/tools/alpha_osf1/cc/sbin/loader
